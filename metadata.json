@@ -1,0 +1,6 @@
+{
+  "name": "HelixTrace",
+  "description": "Genetic Lineage & CRISPR Off-Target Mutation Tracker for monitoring cell-line inheritance trees, off-target cleavage sites, and allele frequency risk.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
